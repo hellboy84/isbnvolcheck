@@ -9,7 +9,7 @@
 - https://github.com/hellboy84/isbnvolcheck/blob/main/20250220_isbnvolcheck.R
 
 # 補足
-- 講演中ではこの中のコードの一部を抜粋してまた少し形を変えて紹介しています。
+- 講演中ではこの中のコードの一部を抜粋してまた簡略化して紹介しています。
 
 # 関連リンク
 - [第20回レファレンス協同データベース事業フォーラム「生成AIはレファレンスサービスに何をもたらすか」](https://crd.ndl.go.jp/jp/about/forum/r6_20.html)
