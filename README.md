@@ -14,4 +14,3 @@
 # 関連リンク
 - [第20回レファレンス協同データベース事業フォーラム「生成AIはレファレンスサービスに何をもたらすか」](https://crd.ndl.go.jp/jp/about/forum/r6_20.html)
 - スライドはこちら：[10.6084/m9.figshare.28006508](https://figshare.com/s/8b5fb904f174aa3e667a)
-- 
